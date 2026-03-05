@@ -1,13 +1,13 @@
 # Practical 3 – Java Programs
 
 ## Half Pyramid Output
-![Half Pyramid](Screenshots/Half_Pyramid.png)
+![Half Pyramid](Screenshots/halfpyramid.png)
 
 ## Alphabet Pattern Output
-![Alphabet Pattern](Screenshots/Alpabet_Pattern.png)
+![Alphabet Pattern](Screenshots/alpabetpattern.png)
 
 ## Odd Even Numbers Output
-![Odd Even Numbers Output](Screenshots/OddEvenProgram3.png)
+![Odd Even Numbers Output](Screenshots/oddevenprogram3.png)
 
 # Cloud Computing with DevOps Practical
 
