@@ -4,7 +4,7 @@
 ![Half Pyramid](Screenshots/halfpyramid.png)
 
 ## Alphabet Pattern Output
-![Alphabet Pattern](Screenshots/alpabetpattern.png)
+![Alphabet Pattern](Screenshots/alphabetpattern.png)
 
 ## Odd Even Numbers Output
 ![Odd Even Numbers Output](Screenshots/oddevenprogram3.png)
