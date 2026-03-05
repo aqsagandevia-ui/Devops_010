@@ -15,7 +15,7 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|-------------------|---------------|
-| Kinjal Patel | 202504104610010 | Set A |
+| Aqsa Gandevia| 202504104610010 | Set A |
 | Vivek Gosai  | 202504104610023 | Set B |
  
 
